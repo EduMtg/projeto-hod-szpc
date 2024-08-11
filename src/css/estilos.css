@@ -79,7 +79,7 @@ body {
 
 .imagem.ativa {
     display: block;
-    animation: mudarImagem 0.7s0o;
+    animation: mudarImagem 0.7s;
 }
 
 @keyframes mudarImagem {
